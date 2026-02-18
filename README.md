@@ -2,12 +2,16 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-<title>My Phartmacy</title>
+<title>My Pharmacy</title>
 
 <style>
+
+html, body {
+    margin:0;
+    padding:0;
+}
+
 body {
-  margin:0;
   font-family:Arial, sans-serif;
   background:#f6f9fb;
   color:#333;
@@ -162,7 +166,7 @@ footer {
 <section class="container">
   <h2 class="section-title">Key Features</h2>
 
-  <div class="features">
+
     <div class="features">
     <div class="card"><h3>⚡ Fast Billing</h3><p>Generate invoices in seconds with shortcut support.</p></div>
     <div class="card"><h3>🧾 GST Ready</h3><p>Automatic GST, HSN codes, and GSTR reports.</p></div>
@@ -207,14 +211,11 @@ footer {
   </div>
 </section>
 
-
-
 <footer>
-<p>Trusted billing, GST & inventory software for modern Retailers</p>
-
-© 2026 My Phartmacy Inventory Management System | Built for Retailers
-
+    <div style="max-width:1100px; margin:auto;">
+        <p>Trusted billing, GST & inventory software for modern Retailers</p>
+        <p>© 2026 My Pharmacy Inventory Management System | Built for Retailers</p>
+    </div>
 </footer>
-
 </body>
 </html>
