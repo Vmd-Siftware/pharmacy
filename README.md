@@ -217,5 +217,3 @@ footer {
         <p>© 2026 My Pharmacy Inventory Management System | Built for Retailers</p>
     </div>
 </footer>
-</body>
-</html>
