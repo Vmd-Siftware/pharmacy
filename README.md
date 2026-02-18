@@ -305,8 +305,13 @@ Designed specially for Indian pharmacies.
 </a>
 </section>
 
-<a href="https://wa.me/919412561200" target="_blank" class="float-whatsapp">
-    <i class="fa-brands fa-whatsapp"></i>
+<!-- WhatsApp Floating Button -->
+<a href="https://wa.me/919412561200?text=Hello%20I%20need%20Pharmacy%20Software"
+   target="_blank"
+   class="float-whatsapp">
+
+   <i class="fa-brands fa-whatsapp"></i>
+
 </a>
 
 
