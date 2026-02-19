@@ -13,6 +13,42 @@
     gap:25px;
 }
 
+/* HERO HEADER WITH CURVE */
+header {
+  position: relative;
+  background: linear-gradient(135deg,#0d3f66,#1bb98a);
+  color: #fff;
+  padding: 100px 20px 140px 20px;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* Bottom Curve Shape */
+header::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 100%;
+  height: 120px;
+  background: #f6f9fb;   /* Same as body background */
+  border-top-left-radius: 100% 100px;
+  border-top-right-radius: 100% 100px;
+}
+
+/* Bigger Title */
+header h1 {
+  font-size: 48px;
+  font-weight: 800;
+  margin: 10px 0;
+}
+
+header p {
+  font-size: 20px;
+  opacity: 0.95;
+}
+
+
 .card{
     background:#e8f9f2;   /* light green */
     border-left:5px solid #0b6e4f;
@@ -399,10 +435,10 @@ footer {
         <div class="price">₹10,000</div>
         <p>One-time payment for 5 Years</p>
         <ul>
-            <li><i class="fas fa-check"></i> Everything in Basic</li>
-            <li><i class="fas fa-check"></i> Lifetime Updates</li>
-            <li><i class="fas fa-check"></i> Priority Support</li>
-            <li><i class="fas fa-check"></i> Advanced Analytics</li>
+           <li><i class="fas fa-check"></i> Billing Software</li>
+            <li><i class="fas fa-check"></i> GST Reports</li>
+            <li><i class="fas fa-check"></i> Stock Management</li>
+            <li><i class="fas fa-times" style="color:#ccc"></i> Advanced Analytics</li>
         </ul>
         <a href="https://wa.me/919412561200" target="_blank" class="btn">Contact Now</a>
     </div>
