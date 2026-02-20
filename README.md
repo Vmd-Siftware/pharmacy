@@ -480,4 +480,3 @@ footer {
     <p>Trusted billing, GST & inventory software for modern Retailers</p>
     <p>&copy; 2026 My Pharmacy Inventory Management System | All Rights Reserved</p>
 </footer>
-
