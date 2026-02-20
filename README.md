@@ -381,6 +381,8 @@ footer {
 
 <!-- KEY FEATURES -->
 <section class="container">
+
+
   <h2 class="section-title">Key Features</h2>
  
    <div class="features">
@@ -470,13 +472,78 @@ footer {
   </div>
 </section>
 
+
+
+
 <!-- FLOATING WHATSAPP BUTTON -->
 <a href="https://wa.me/919412561200?text=Hello%20I%20need%20Pharmacy%20Software" target="_blank" class="float-whatsapp">
     <i class="fab fa-whatsapp"></i>
 </a>
+
+<!-- PARTY MANAGEMENT SECTION -->
+<section class="container">
+  <h2 class="section-title">Party / Supplier Management</h2>
+
+  <div class="features">
+
+    <div class="card">
+      <h3>🏢 Party Master</h3>
+      <p>Add & manage party details including Name, Address & Contact Number.</p>
+    </div>
+
+    <div class="card">
+      <h3>📞 Contact Details</h3>
+      <p>Store mobile number, GST number, and city information.</p>
+    </div>
+
+    <div class="card">
+      <h3>💰 Outstanding Tracking</h3>
+      <p>Track pending payments, credit balance & transaction history.</p>
+    </div>
+
+  </div>
+
+  <!-- Sample Party Table -->
+  <div style="margin-top:40px; overflow-x:auto;">
+    <table style="width:100%; border-collapse:collapse; background:white; border-radius:10px; overflow:hidden; box-shadow:0 5px 15px rgba(0,0,0,0.08);">
+      <thead style="background:#0b6e4f; color:white;">
+        <tr>
+          <th style="padding:12px;">User Party Name</th>
+          <th style="padding:12px;">User Address</th>
+          <th style="padding:12px;">User Contact Number</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding:12px;">Sahil Medical Store</td>
+          <td style="padding:12px;">Neoar Mata Mandir Kotli Bagich Deori Road Agra</td>
+          <td style="padding:12px;">+91 6395283710</td>
+        </tr>
+        <tr style="background:#f6f9fb;">
+          <td style="padding:12px;">Life Care Pharmacy</td>
+          <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
+          <td style="padding:12px;">+91 7078267474</td>
+        </tr>
+        <tr>
+          <td style="padding:12px;">Medicine Point</td>
+          <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
+          <td style="padding:12px;">+91 9760216280</td>
+        </tr>
+        <tr>
+ <td style="padding:12px;">Vivek Medical Store</td>
+          <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
+          <td style="padding:12px;">+91 9079281543</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</section>
+
 
 <!-- FOOTER -->
 <footer>
     <p>Trusted billing, GST & inventory software for modern Retailers</p>
     <p>&copy; 2026 My Pharmacy Inventory Management System | All Rights Reserved</p>
 </footer>
+
