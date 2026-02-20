@@ -516,7 +516,7 @@ footer {
       <tbody>
         <tr>
           <td style="padding:12px;">Sahil Medical Store</td>
-          <td style="padding:12px;">Neoar Mata Mandir Kotli Bagich Deori Road Agra</td>
+          <td style="padding:12px;">shri Radhey Radhey Hospital Deori Road Agra</td>
           <td style="padding:12px;">+91 6395283710</td>
         </tr>
         <tr style="background:#f6f9fb;">
