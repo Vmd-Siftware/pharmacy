@@ -389,7 +389,7 @@ footer {
 
    <div class="card"> <h3>⚡ Fast Billing</h3> <p>Generate invoices in seconds with shortcut support.</p> </div> <div class="card"> <h3>🧾 GST Ready</h3> <p>Automatic GST, HSN codes, and GSTR reports.</p> </div> <div class="card"> <h3>📦 Stock Control</h3> <p>Batch wise stock, expiry alerts, and low-stock warnings.</p> </div> <div class="card"> <h3>🛒 Purchase Module</h3> <p>Supplier bills, returns, and outstanding tracking.</p> </div> <div class="card"> <h3>👥 Customer Ledger</h3> <p>Credit history, payments, and balance reports.</p> </div> <div class="card"> <h3>📊 Reports</h3> <p>Sales, profit, tax, and monthly analysis reports.</p> </div> </div>
 
-  </div>
+
 </section>
 
 <!-- DOWNLOAD SECTION -->
