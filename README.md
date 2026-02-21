@@ -512,7 +512,7 @@ footer {
           <th style="padding:12px;">User Address</th>
           <th style="padding:12px;">User Contact Number</th>
         </tr>
-      </thead>
+     
       <tbody>
         <tr>
           <td style="padding:12px;">Sahil Medical Store</td>
