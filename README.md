@@ -389,7 +389,7 @@ footer {
 
    <div class="card"> <h3>⚡ Fast Billing</h3> <p>Generate invoices in seconds with shortcut support.</p> </div> <div class="card"> <h3>🧾 GST Ready</h3> <p>Automatic GST, HSN codes, and GSTR reports.</p> </div> <div class="card"> <h3>📦 Stock Control</h3> <p>Batch wise stock, expiry alerts, and low-stock warnings.</p> </div> <div class="card"> <h3>🛒 Purchase Module</h3> <p>Supplier bills, returns, and outstanding tracking.</p> </div> <div class="card"> <h3>👥 Customer Ledger</h3> <p>Credit history, payments, and balance reports.</p> </div> <div class="card"> <h3>📊 Reports</h3> <p>Sales, profit, tax, and monthly analysis reports.</p> </div> </div>
 
-
+  </div>
 </section>
 
 <!-- DOWNLOAD SECTION -->
@@ -516,7 +516,7 @@ footer {
       <tbody>
         <tr>
           <td style="padding:12px;">Sahil Medical Store</td>
-          <td style="padding:12px;">shri Radhey Radhey Hospital Deori Road Agra</td>
+          <td style="padding:12px;">Neoar Mata Mandir Kotli Bagich Deori Road Agra</td>
           <td style="padding:12px;">+91 6395283710</td>
         </tr>
         <tr style="background:#f6f9fb;">
@@ -546,4 +546,3 @@ footer {
     <p>Trusted billing, GST & inventory software for modern Retailers</p>
     <p>&copy; 2026 My Pharmacy Inventory Management System | All Rights Reserved</p>
 </footer>
-
