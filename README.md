@@ -507,7 +507,8 @@ footer {
   <div style="margin-top:40px; overflow-x:auto;">
     <table style="width:100%; border-collapse:collapse; background:white; border-radius:10px; overflow:hidden; box-shadow:0 5px 15px rgba(0,0,0,0.08);">
       <thead style="background:#0b6e4f; color:white;">
-        <tr>
+        <tbody>
+          <tr>
           <th style="padding:12px;">User Party Name</th>
           <th style="padding:12px;">User Address</th>
           <th style="padding:12px;">User Contact Number</th>
