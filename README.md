@@ -3,6 +3,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>My Pharmacy - Inventory Management System</title>
+ 
+
 <!-- Font Awesome for Icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -359,8 +361,12 @@ footer {
 <!-- HEADER -->
 <header>
   <span class="rgb-text">My Pharmacy</span>
+
   <h1>Inventory Management System</h1>
+ <h2>Grow Your Medical Store with Smart Software</h2>
+ <p>Start using Retailers Inventory Management System today.</p>
   <p>All-in-one billing, GST & inventory software made for medical stores</p>
+
   <br>
   <a href="#download" class="btn" style="background: white; color: #0b6e4f;">Download Demo</a>
 </header>
@@ -389,6 +395,7 @@ footer {
 
    <div class="card"> <h3>⚡ Fast Billing</h3> <p>Generate invoices in seconds with shortcut support.</p> </div> <div class="card"> <h3>🧾 GST Ready</h3> <p>Automatic GST, HSN codes, and GSTR reports.</p> </div> <div class="card"> <h3>📦 Stock Control</h3> <p>Batch wise stock, expiry alerts, and low-stock warnings.</p> </div> <div class="card"> <h3>🛒 Purchase Module</h3> <p>Supplier bills, returns, and outstanding tracking.</p> </div> <div class="card"> <h3>👥 Customer Ledger</h3> <p>Credit history, payments, and balance reports.</p> </div> <div class="card"> <h3>📊 Reports</h3> <p>Sales, profit, tax, and monthly analysis reports.</p> </div> </div>
 
+  </div>
 </section>
 
 <!-- DOWNLOAD SECTION -->
@@ -506,17 +513,16 @@ footer {
   <div style="margin-top:40px; overflow-x:auto;">
     <table style="width:100%; border-collapse:collapse; background:white; border-radius:10px; overflow:hidden; box-shadow:0 5px 15px rgba(0,0,0,0.08);">
       <thead style="background:#0b6e4f; color:white;">
-        <tbody>
-          <tr>
+        <tr>
           <th style="padding:12px;">User Party Name</th>
           <th style="padding:12px;">User Address</th>
           <th style="padding:12px;">User Contact Number</th>
         </tr>
-     
+      </thead>
       <tbody>
         <tr>
           <td style="padding:12px;">Sahil Medical Store</td>
-          <td style="padding:12px;">Near Mata Mandir Kotli Bagich Deori Road Agra</td>
+          <td style="padding:12px;">Radhey-Radhey Hospital Deori Road tall semari Agra</td>
           <td style="padding:12px;">+91 6395283710</td>
         </tr>
         <tr style="background:#f6f9fb;">
@@ -535,9 +541,15 @@ footer {
           <td style="padding:12px;">+91 9079281543</td>
         </tr>
 
-      
+      </tbody>
+    </table>
+  </div>
+</section>
+
+
 <!-- FOOTER -->
 <footer>
     <p>Trusted billing, GST & inventory software for modern Retailers</p>
     <p>&copy; 2026 My Pharmacy Inventory Management System | All Rights Reserved</p>
 </footer>
+
