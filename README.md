@@ -517,12 +517,7 @@ footer {
  <td style="padding:12px;">Vivek Medical Store</td>
           <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
           <td style="padding:12px;">+91 9079281543</td>
-        </tr>
-
-      </tbody>
-    </table>
-  </div>
-</section>
+       
 
 
 <!-- FOOTER -->
