@@ -513,29 +513,7 @@ footer {
   <div style="margin-top:40px; overflow-x:auto;">
     <table style="width:100%; border-collapse:collapse; background:white; border-radius:10px; overflow:hidden; box-shadow:0 5px 15px rgba(0,0,0,0.08);">
       <thead style="background:#0b6e4f; color:white;">
-        <tr>
-          <th style="padding:12px;">User Party Name</th>
-          <th style="padding:12px;">User Address</th>
-          <th style="padding:12px;">User Contact Number</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding:12px;">Sahil Medical Store</td>
-          <td style="padding:12px;">Radhey-Radhey Hospital Deori Road tall semari Agra</td>
-          <td style="padding:12px;">+91 6395283710</td>
-        </tr>
-        <tr style="background:#f6f9fb;">
-          <td style="padding:12px;">Life Care Pharmacy</td>
-          <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
-          <td style="padding:12px;">+91 7078267474</td>
-        </tr>
-        <tr>
-          <td style="padding:12px;">Medicine Point</td>
-          <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
-          <td style="padding:12px;">+91 9760216280</td>
-        </tr>
-        <tr>
+       
  <td style="padding:12px;">Vivek Medical Store</td>
           <td style="padding:12px;">Madhuvan Plaza Conplex Delhi Gate Agra</td>
           <td style="padding:12px;">+91 9079281543</td>
