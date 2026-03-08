@@ -1,6 +1,6 @@
 <%@ Page Language="VB" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
-
+<!DOCTYPE html>
 <html>
 <head runat="server">
     <title>Hello World</title>
