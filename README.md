@@ -510,10 +510,7 @@ footer {
       <thead style="background:#0b6e4f; color:white;">
 
 
-      </tbody>
-    </table>
-  </div>
-</section>
+    
 
 
 <!-- FOOTER -->
@@ -522,5 +519,4 @@ footer {
     <p>&copy; 2026 My Pharmacy Inventory Management System | All Rights Reserved</p>
 </footer>
 
-</body>
-</html>
+
