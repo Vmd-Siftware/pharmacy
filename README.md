@@ -413,8 +413,7 @@ footer {
             <li><i class="fas fa-check"></i> Stock Management</li>
             <li><i class="fas fa-times" style="color:#ccc"></i> Advanced Analytics</li>
         </ul>
-        <a href="https://wa.me/919412561200" target="_blank" class="btn">Contact Now</a>
-    </div>
+       
 
    
       
