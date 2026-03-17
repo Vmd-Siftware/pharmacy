@@ -416,12 +416,9 @@ footer {
         <a href="https://wa.me/919412561200" target="_blank" class="btn">Contact Now</a>
     </div>
 
-    <!-- Premium Plan -->
-    <div class="price-card premium">
-        <div style="position:absolute; top:-12px; right:-12px; background:#ff4d4d; color:white; padding:5px 10px; border-radius:20px; font-size:12px; font-weight:bold;">BEST VALUE</div>
-        <h3>Premium</h3>
-        <div class="price">₹10,000</div>
-        <p>One-time payment for 5 Years</p>
+   
+      
+        
       
         <a href="https://wa.me/919412561200" target="_blank" class="btn">Contact Now</a>
     </div>
