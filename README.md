@@ -423,12 +423,7 @@ footer {
         <h3>Premium</h3>
         <div class="price">₹10,000</div>
         <p>One-time payment for 5 Years</p>
-        <ul>
-           <li><i class="fas fa-check"></i> Billing Software</li>
-            <li><i class="fas fa-check"></i> GST Reports</li>
-            <li><i class="fas fa-check"></i> Stock Management</li>
-            <li><i class="fas fa-times" style="color:#ccc"></i> Advanced Analytics</li>
-        </ul>
+      
         <a href="https://wa.me/919412561200" target="_blank" class="btn">Contact Now</a>
     </div>
 
